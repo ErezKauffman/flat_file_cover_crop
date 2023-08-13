@@ -1,4 +1,4 @@
-# flat_file_cover_crop
+# flat_file_cover_crop (SQL)
 #Data is from 3 regions in Germany from different client blocks
 #23 meterological features were added
 #113 final features
